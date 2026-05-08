@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sello+Prince+Lebudi;Computer+Science;Information+Systems;Music+Theory;Code+%F0%9F%92%BB+%2B+Sound+%F0%9F%8E%B5+%3D+Expression"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sello+Prince+Lebudi;Computer+Science;Information+Systems;Music+Theory;Code+%F0%9F%92%BB+%2B+Sound"/>
 
 </div>
 
