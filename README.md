@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sp-lebudi/sp-lebudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sello+Prince+Lebudi;Computer+Science+%7C+Information+Systems+%7C+Music+Theory;Code+%F0%9F%92%BB+%2B+Sound+%F0%9F%8E%B5+%3D+Expression"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨🏽‍💻 About Me
+
+🎓 **BSc Honours in Computer Science (In Progress)**  
+🎓 **Rhodes University – BSc Computer Science**  
+📚 Majors: Computer Science • Information Systems • Music Theory & Analysis  
+
+I’m a multi-versed creator working across **technology and music**.
+---
