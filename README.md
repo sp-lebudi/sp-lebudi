@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 ## 👨🏽‍💻 About Me
 
 🎓 **BSc Honours in Computer Science (In Progress)**  
@@ -14,4 +12,4 @@
 📚 Majors: Computer Science • Information Systems • Music Theory & Analysis  
 
 I’m a multi-versed creator working across **technology and music**.
----
+
